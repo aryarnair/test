@@ -10,6 +10,7 @@ else
 printf("are you thirsty");
 if (thirsty==yes)
 printf("drink water");
+printf("else drink soda");
 
 return 0;
 
