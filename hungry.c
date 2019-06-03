@@ -9,7 +9,7 @@ printf("I'm hungry");
 printf("eat fries");
 =======
 printf("eat pizza");
-printf("eat burger");
+printf("don't eat burger");
 >>>>>>> ec0dd42993ae863f56fa5c4bf1606542af2cd219
 else
 
