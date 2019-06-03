@@ -6,6 +6,7 @@ int hungry;
 if(hungry==yes)
 printf("I'm hungry");
 printf("eat pizza");
+printf("eat burger");
 else
 printf("I'm not hungry");
 
