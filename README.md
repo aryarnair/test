@@ -1,2 +1,3 @@
 # test
-to test a new repository
+to test  new repository for git commands
+
