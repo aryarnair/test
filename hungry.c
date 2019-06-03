@@ -5,7 +5,12 @@ printf("are you hungry?");
 int hungry, thirsty;
 if(hungry==yes)
 printf("I'm hungry");
+<<<<<<< HEAD
 printf("eat fries");
+=======
+printf("eat pizza");
+printf("eat burger");
+>>>>>>> ec0dd42993ae863f56fa5c4bf1606542af2cd219
 else
 
 printf("are you thirsty");
